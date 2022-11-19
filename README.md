@@ -1,6 +1,6 @@
 Hi,
 
-I'm L33T, I am a computer engineer graduated from Ege University.
+I'm Furkan, I am a computer engineer graduated from Ege University.
 
 I'm working on Network Operation and Automatization System at Vodafone as PS Core Network Operation Engineer.
 On the other hand, I have a lot of experience of Offansive Security, Networking, Linux Systems and ofc. high level Programming
